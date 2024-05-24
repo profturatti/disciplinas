@@ -1,0 +1,7 @@
+Exercício
+
+Elabore um programa em C que sorteie 6 números distintos e os armazene 
+em um vetor. O vetor deve estar ordenado de forma crescente. Caso seja 
+sorteado um valor já existente no vetor, esse valor é ignorado e um 
+novo valor é sorteado. Após o preenchimento total do vetor com seis 
+posições que contêm valores únicos, mostre esse vetor para o usuario.
