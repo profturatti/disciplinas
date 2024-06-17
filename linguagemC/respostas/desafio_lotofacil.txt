@@ -1,0 +1,34 @@
+# Como funciona a Lotofácil?
+
+Você pode apostar diversos valores na Lotofácil, porém a taxa mínima é de R$ 2,50, referente a escolha de 15 números na cartela. No entanto, é possível concorrer com mais algarismos. Neste caso, contudo, o preço da aposta também aumenta. Assim, caso escolha 16 números, precisará pagar R$ 40. Se a quantidade aumentar para 17 números, o preço torna-se bem mais caro, correspondendo a R$ 340. Por fim, o último valor de aposta disponível é de R$ 2.040, que é referente a 18 números na cartela.
+
+# Quais as chances de ganhar?
+
+Uma cartela da Lotofácil conta com 25 números, dos quais 15 serão sorteados a cada rodada. 
+
+Sendo assim, a probabilidade de você conseguir acertar todos os algarismos sorteados em uma aposta com:
+- 15 números: é 1 em 3.268.760 possibilidades;
+- 16 números: é 1 em cada 204.297 possibilidades;
+- 17 números: é 1 em cada 24.035 possibilidades;
+- 18 números: é 1 em cada 4.005 possibilidades.
+
+# Como funciona a premiação da Lotofácil?
+
+Outro ponto importante para entender como funciona a lotofácil está relacionado com os valores de premiação disponíveis. Os ganhadores podem receber prêmios em cinco faixas diferentes.
+
+Para quem acerta:
+- 11 números recebe R$ 6,00
+- 12 números recebe R$ 12,00
+- 13 números recebe R$ 30,00
+- 14 números recebe R$ ?
+- 15 números recebe R$ ?
+
+Os três primeiros prêmios possuem valor fixo. Isso significa que não importa a quantidade de ganhadores, cada um vai receber sempre o valor citado.
+
+O prêmio pago aos apostadores é proporcional à quantidade total do valor arrecadado. Isso corresponde sempre a 43,5% da arrecadação total do jogo, ou seja, caso tenham sido arrecadados R$ 31 milhões, o prêmio da será de R$ 13.485.000,00.
+
+Do valor disponível para premiação, inicialmente são pagos os prêmios fixos. Com o valor restante, calcula-se o que vai para o ganhador de 14 números (20% do dinheiro) e de 15 números (65% do dinheiro). Caso mais de uma pessoa seja premiada nas caixas maiores, o montante será dividido entre elas. De modo geral, o valor máximo do prêmio fica na casa dos R$ 2,5 milhões.
+
+# O que é preciso fazer?
+
+Portanto, toda ajuda é bem-vinda para tornar esse cenário melhor. É aqui que seu trabalho como desenvolvedor começa. Elabore um gerador de combinações para lotofácil onde o usuário informa a quantidade de números em que deseja apostar. Os palpites são os números entre 1 e 25. Gere a quantidade de números aleatórios distintos e ordenados de forma crescente. Mostre o palpite ao usuário. O programa é encerrado quando o usuário informa zero como a quantidade de números desejados.
